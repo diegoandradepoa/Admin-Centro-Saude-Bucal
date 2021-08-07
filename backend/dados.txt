@@ -1,0 +1,7 @@
+export default {
+    secret: 'A96CD88EBB21C1E7C374EC5CD3D78487',
+    expiresIn: '1d'
+};
+
+
+centrodesaudebucal
