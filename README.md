@@ -3,7 +3,9 @@
 O projeto contempla três partes principais
 
 ⚙️ Agenda
+
 ⚙️ Cadastro de paciente
+
 ⚙️ Financeiro
 
 Para o projeto foram usados as seguintes tecnologias:
